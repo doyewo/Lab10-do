@@ -1,0 +1,2 @@
+1.) The breadth printed in order first and gave similar results to the first iteration. The starting point does not make a difference for the random walk.
+2.) A real map could use multiple colors if multiple countries have multiple disconnected regions. 
